@@ -6,5 +6,7 @@ int main()
 
 	std::cout << "수정" << std::endl;
 
+	std::cout << "2차 수정" << std::endl;
+
 	return 0;
 }
